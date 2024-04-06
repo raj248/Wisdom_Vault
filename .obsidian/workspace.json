@@ -20,13 +20,14 @@
             }
           },
           {
-            "id": "759180afa454f65b",
+            "id": "810a6aff4fba5c62",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "staged": false,
-                "file": "Elementary Lattice Dynamics.md"
+                "file": "Wave Vector.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -97,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Wave Vector.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Wave Vector.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Wave Vector.md"
+              }
             }
           }
         ]
@@ -154,9 +159,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "759180afa454f65b",
+  "active": "810a6aff4fba5c62",
   "lastOpenFiles": [
     "Elementary Lattice Dynamics.md",
+    "Wave Vector.md",
     "Elastic Waves.md"
   ]
 }
