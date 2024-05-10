@@ -1,0 +1,43 @@
+{
+	"nodes":[
+		{"id":"c461e389df04e9db","type":"text","text":"Model","x":-294,"y":480,"width":142,"height":50},
+		{"id":"590b12287616b8ba","type":"text","text":"GetAll()","x":-516,"y":750,"width":133,"height":50},
+		{"id":"bdafed3f0c097792","type":"text","text":"AddProduct()","x":-383,"y":750,"width":178,"height":50},
+		{"id":"399d2590410c2a65","type":"text","text":"UpdateProduct()","x":-205,"y":750,"width":208,"height":50},
+		{"id":"d4d35dfce5e7b1de","type":"text","text":"DeleteProduct()","x":3,"y":750,"width":250,"height":50},
+		{"id":"852b0a30f997b8c3","type":"text","text":"View\n","x":-1440,"y":-427,"width":118,"height":50,"color":"2"},
+		{"id":"a5d07d8d2dcf606d","type":"text","text":"LOGIN","x":-1162,"y":-505,"width":122,"height":50},
+		{"id":"d0cb4939a568fd01","type":"text","text":"Main.js","x":-2000,"y":-282,"width":121,"height":50},
+		{"id":"479ecc74e8997097","type":"text","text":"Delete ()","x":-1720,"y":-282,"width":140,"height":50},
+		{"id":"1164c00b8bc66f40","type":"text","text":"Index.js","x":1320,"y":80,"width":133,"height":50},
+		{"id":"3a3af26e0ea5272e","type":"text","text":"Controller","x":-80,"y":360,"width":150,"height":50},
+		{"id":"6baae7e44c8e5eca","type":"text","text":"GET","x":70,"y":130,"width":123,"height":50},
+		{"id":"0b0ff0e9f45ce51e","type":"text","text":"GetLogin","x":193,"y":-90,"width":250,"height":50},
+		{"id":"15220cf887ff193a","type":"text","text":"GetProduct","x":-5,"y":-90,"width":200,"height":50},
+		{"id":"b2f3f8bd553d5007","type":"text","text":"GetRegister","x":-165,"y":-90,"width":160,"height":50},
+		{"id":"186d1a05501911ff","type":"text","text":"POST\n","x":-624,"y":130,"width":108,"height":50},
+		{"id":"f73687a0e35ed670","type":"text","text":"/","x":677,"y":-240,"width":74,"height":50},
+		{"id":"5d6922fe0e520788","type":"text","text":"POST","x":1120,"y":-190,"width":124,"height":50},
+		{"id":"460872638f89d929","type":"text","text":"GET","x":1022,"y":-40,"width":98,"height":50}
+	],
+	"edges":[
+		{"id":"4a23c881d08ff42d","fromNode":"c461e389df04e9db","fromSide":"bottom","toNode":"590b12287616b8ba","toSide":"top","toEnd":"none"},
+		{"id":"ca0dc666eaead569","fromNode":"c461e389df04e9db","fromSide":"bottom","toNode":"bdafed3f0c097792","toSide":"top","toEnd":"none"},
+		{"id":"398238204a72819e","fromNode":"c461e389df04e9db","fromSide":"bottom","toNode":"399d2590410c2a65","toSide":"top","toEnd":"none"},
+		{"id":"802f83c248740878","fromNode":"c461e389df04e9db","fromSide":"bottom","toNode":"d4d35dfce5e7b1de","toSide":"top","toEnd":"none"},
+		{"id":"910263b977f36017","fromNode":"6baae7e44c8e5eca","fromSide":"top","toNode":"15220cf887ff193a","toSide":"bottom","toEnd":"none"},
+		{"id":"25e6771cbba93800","fromNode":"1164c00b8bc66f40","fromSide":"top","toNode":"460872638f89d929","toSide":"bottom","toEnd":"none"},
+		{"id":"73a7e34d6829c1d6","fromNode":"1164c00b8bc66f40","fromSide":"top","toNode":"5d6922fe0e520788","toSide":"bottom","toEnd":"none"},
+		{"id":"3e5b79b95361c05d","fromNode":"460872638f89d929","fromSide":"top","toNode":"f73687a0e35ed670","toSide":"bottom","toEnd":"none"},
+		{"id":"d536a9c626a5f5f3","fromNode":"852b0a30f997b8c3","fromSide":"right","toNode":"a5d07d8d2dcf606d","toSide":"left","toEnd":"none"},
+		{"id":"0f1570dde84e0e1e","fromNode":"3a3af26e0ea5272e","fromSide":"top","toNode":"6baae7e44c8e5eca","toSide":"bottom","toEnd":"none"},
+		{"id":"00917f5592372a7a","fromNode":"3a3af26e0ea5272e","fromSide":"top","toNode":"186d1a05501911ff","toSide":"bottom","toEnd":"none"},
+		{"id":"5fd6a3486341aa24","fromNode":"6baae7e44c8e5eca","fromSide":"top","toNode":"0b0ff0e9f45ce51e","toSide":"bottom","toEnd":"none"},
+		{"id":"472117a0bee6e647","fromNode":"3a3af26e0ea5272e","fromSide":"bottom","toNode":"c461e389df04e9db","toSide":"top","label":"import"},
+		{"id":"e4b8e5c0054dca50","fromNode":"d0cb4939a568fd01","fromSide":"right","toNode":"479ecc74e8997097","toSide":"left","toEnd":"none"},
+		{"id":"5f1547ccf0094065","fromNode":"f73687a0e35ed670","fromSide":"top","toNode":"0b0ff0e9f45ce51e","toSide":"top"},
+		{"id":"37f0611666a98a48","fromNode":"f73687a0e35ed670","fromSide":"top","toNode":"15220cf887ff193a","toSide":"top"},
+		{"id":"97c8c81c6789bad8","fromNode":"f73687a0e35ed670","fromSide":"top","toNode":"b2f3f8bd553d5007","toSide":"top"},
+		{"id":"e508877bffa77234","fromNode":"15220cf887ff193a","fromSide":"bottom","toNode":"590b12287616b8ba","toSide":"bottom"}
+	]
+}
