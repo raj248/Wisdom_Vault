@@ -8,7 +8,40 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d9194cc10b538096",
+            "id": "45096dd55469dbfe",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Books/Discrete mathematics and its applications Rosen, Kenneth H - (2019).pdf",
+                "page": 56,
+                "left": 100,
+                "top": 696,
+                "zoom": 0.88
+              }
+            }
+          },
+          {
+            "id": "8c35ded8055d9111",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Easily/Init.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "f13b18af78b0ec96",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b236625a5738ba83",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,8 +51,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d9194cc10b538096",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tasks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "16703888481e2919",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Discrete Mathematics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3611ffbf2081d073",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Foundations - Logic and Proofs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +139,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "d34d00094fdd0f16",
@@ -85,14 +156,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NET-JRF/Syllabus.md",
+                "file": "Projects/Easily/Init.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -102,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NET-JRF/Syllabus.md",
+                "file": "Projects/Easily/Init.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NET-JRF/Syllabus.md"
+                "file": "Projects/Easily/Init.md"
               }
             }
           },
@@ -137,7 +208,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -152,32 +224,39 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "completed-task-display:Task Hider": false
+      "completed-task-display:Task Hider": false,
+      "omnisearch:Omnisearch": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "d9194cc10b538096",
+  "active": "8c35ded8055d9111",
   "lastOpenFiles": [
+    "Projects/Easily/Init.md",
+    "Projects/Easily",
+    "Untitled",
+    "Projects",
+    "Tasks.md",
+    "The Foundations - Logic and Proofs.md",
+    "Discrete Mathematics.md",
+    "Books/Discrete mathematics and its applications Rosen, Kenneth H - (2019).pdf",
     "NET-JRF/Books.md",
+    "NET-JRF/CUET_PG_Syllabus.pdf",
     "NET-JRF/Syllabus.md",
     "NET-JRF/Paper-II_Computer Science and Applications_English Only.pdf",
     "NET-JRF/Paper-II Computer Science and Applications_English Only.pdf",
     "NET-JRF/Paper-I_English.pdf",
-    "Tasks.md",
     "NET-JRF/Computer Science and Applications_English Only.pdf",
     "Python.md",
     "Programming/WebD/NodeJS.md",
     "Programming/WebD/E-Commerce.canvas",
     "NET-JRF",
-    "Books",
     "Physics/Solid States/Elastic Waves.md",
     "2024-05-04.md",
     "Untitled.canvas",
     "Physics/Solid States/Wave Vector.md",
     "Physics/Solid States/Unit II.md",
-    "Physics/Solid States/Elementary Lattice Dynamics.md",
-    "Programming/WebD",
-    "Programming",
-    "Physics",
-    "Physics/Solid States"
+    "Physics/Solid States/Elementary Lattice Dynamics.md"
   ]
 }

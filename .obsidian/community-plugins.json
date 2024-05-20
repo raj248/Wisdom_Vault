@@ -8,5 +8,8 @@
   "canvas-mindmap",
   "obsidian-icon-folder",
   "obsidian-minimal-settings",
-  "cm-editor-syntax-highlight-obsidian"
+  "cm-editor-syntax-highlight-obsidian",
+  "omnisearch",
+  "text-extractor",
+  "pdf-plus"
 ]
