@@ -14,9 +14,9 @@
               "type": "pdf",
               "state": {
                 "file": "Books/Discrete mathematics and its applications Rosen, Kenneth H - (2019).pdf",
-                "page": 56,
-                "left": 100,
-                "top": 696,
+                "page": 83,
+                "left": 76,
+                "top": 246,
                 "zoom": 0.88
               }
             }
@@ -33,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "f13b18af78b0ec96",
@@ -89,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -156,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Easily/Init.md",
+                "file": "The Foundations - Logic and Proofs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/Easily/Init.md",
+                "file": "The Foundations - Logic and Proofs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/Easily/Init.md"
+                "file": "The Foundations - Logic and Proofs.md"
               }
             }
           },
@@ -231,16 +230,16 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "8c35ded8055d9111",
+  "active": "3611ffbf2081d073",
   "lastOpenFiles": [
+    "Books/Discrete mathematics and its applications Rosen, Kenneth H - (2019).pdf",
+    "The Foundations - Logic and Proofs.md",
     "Projects/Easily/Init.md",
     "Projects/Easily",
     "Untitled",
     "Projects",
     "Tasks.md",
-    "The Foundations - Logic and Proofs.md",
     "Discrete Mathematics.md",
-    "Books/Discrete mathematics and its applications Rosen, Kenneth H - (2019).pdf",
     "NET-JRF/Books.md",
     "NET-JRF/CUET_PG_Syllabus.pdf",
     "NET-JRF/Syllabus.md",

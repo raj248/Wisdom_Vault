@@ -128,4 +128,93 @@ A proposition in a compound proposition can be replaced by a compound propositio
 ![[Discrete mathematics and its applications Rosen, Kenneth H - (2019).pdf#page=55&rect=101,428,585,749&color=red]]
 
 ### Satisfiability
-1.3.5
+A compound proposition is satisfiable if there is an assignment of truth values to its variables that makes it true (that is, when it is a tautology or a contingency).
+
+When no such assignments exists, that is, when the compound proposition is false for all assignments of truth values to its variables, the compound proposition is unsatisfiable
+
+When we find a particular assignment of truth values that makes a compound proposition true, such an assignment is called a solution.
+
+Application of Satisfiability
+- n-Queens Problem
+- Sudoku
+
+## Predicate and Quantifiers
+(predicate logic)
+
+### Predicate
+The statement “x is greater than 3” has two parts. The first part, the variable x, is the subject of the statement. The second part—the **predicate**, “is greater than 3”—refers to a property that the subject of the statement can have.
+
+denote the statement “x is greater than 3” by P (x), where P denotes the predicate “is greater than 3” and x is the variable.
+
+The statement P (x) is also said to be the value of the propositional function P at x.  
+**Once a value has been assigned to the variable x, the statement P (x) becomes a proposition and has a truth value.**
+
+![[Discrete mathematics and its applications Rosen, Kenneth H - (2019).pdf#page=65&rect=108,483,591,647&color=red]]
+
+Preconditions and Post-conditions : The statements that describe valid input are known as preconditions and the conditions that the output should satisfy when the program has run are known as post-conditions.
+
+### Quantifiers
+When the variables in a propositional function are assigned values, the resulting statement becomes a proposition with a certain truth value. i.e quantification, to create a proposition form a propositional function.
+
+Quantification expresses the extent to which a predicate is true over a range of elements.
+
+In English, the words all, some, many, none, and few are used in quantification.
+
+The area of logic that deals with predicates and quantifiers is called the predicate calculus.
+
+Universal Quantifier
+
+![[Discrete mathematics and its applications Rosen, Kenneth H - (2019).pdf#page=67&rect=108,506,594,631&color=red]]
+The meaning of the universal quantification of P (x) changes when we change the domain. The domain must always be specified when a universal quantifier is used; without it, the universal quantification of a statement is not defined.
+
+**Remark**: Generally, an implicit assumption is made that all domains of discourse for quantifiers are nonempty. Note that if the domain is empty, then ∀xP (x) is true for any propositional function P (x) because there are no elements x in the domain for which P (x) is false.
+
+A statement ∀xP (x) is false, where P (x) is a propositional function, if and only if P (x) is not always true when x is in the domain. One way to show that P (x) is not always true when x is in the domain is to find a counterexample to the statement ∀xP (x). Note that a single counterexample is all we need to establish that ∀xP (x) is false.
+![[Discrete mathematics and its applications Rosen, Kenneth H - (2019).pdf#page=67&rect=127,72,622,183&color=red]]
+[[Discrete mathematics and its applications Rosen, Kenneth H - (2019).pdf#page=68&selection=0,0,1,0&color=red|1.4 Predicates and Quantifiers Examples]]
+
+Golden Example ![[Discrete mathematics and its applications Rosen, Kenneth H - (2019).pdf#page=68&rect=120,260,611,385&color=red]]
+Existential Quantifier
+
+![[Discrete mathematics and its applications Rosen, Kenneth H - (2019).pdf#page=68&rect=127,70,616,245&color=red]]
+
+A domain must always be specified when a statement ∃xP (x) is used. Furthermore, the meaning of ∃xP (x) changes when the domain changes. Without specifying the domain, the statement ∃xP (x) has no meaning.
+
+Besides the phrase “there exists,” we can also express existential quantification in many other ways, such as by using the words “for some,” “for at least one,” or “there is.” The existential quantification ∃xP (x) is read as “There is an x such that P (x),” “There is at least one x such that P (x),” or “For some xP (x).”
+
+Remark: Generally, an implicit assumption is made that all domains of discourse for quantifiers are nonempty. If the domain is empty, then ∃xQ (x) is false whenever Q (x) is a propositional function because when the domain is empty, there can be no element x in the domain for which Q (x) is true.
+
+### THE UNIQUENESS QUANTIFIER 
+
+### QUANTIFIERS OVER FINITE DOMAINS
+
+![[Discrete mathematics and its applications Rosen, Kenneth H - (2019).pdf#page=70&rect=202,598,610,741&color=red]]
+![[Discrete mathematics and its applications Rosen, Kenneth H - (2019).pdf#page=70&rect=200,357,612,453&color=red]]
+
+### Quantifiers with Restricted Domains
+![[Discrete mathematics and its applications Rosen, Kenneth H - (2019).pdf#page=71&rect=101,500,592,657&color=red]]
+
+### Precedence of Quantifiers 
+The quantifiers ∀ and ∃ have higher precedence than all logical operators from propositional calculus. For example, ∀xP (x) ∨ Q (x) is the disjunction of ∀xP (x) and Q (x). In other words, it means (∀xP (x)) ∨ Q (x) rather than ∀x (P (x) ∨ Q (x)).
+
+### Binding Variables
+- When a quantifier is used on the variable x, we say that this occurrence of the variable is bound. 
+- An occurrence of a variable that is not bound by a quantifier or set equal to a particular value is said to be free. 
+- All the variables that occur in a propositional function must be bound or set equal to a particular value to turn it into a proposition. 
+- This can be done using a combination of universal quantifiers, existential quantifiers, and value assignments.
+- The part of a logical expression to which a quantifier is applied is called the scope of this quantifier
+-  a variable is free if it is outside the scope of all quantifiers in the formula that specify this variable.
+
+![[Discrete mathematics and its applications Rosen, Kenneth H - (2019).pdf#page=71&rect=103,172,596,215&color=red]]
+[[Discrete mathematics and its applications Rosen, Kenneth H - (2019).pdf#page=71&color=red|The reader should be aware that in common usage, the same letter is often used to represent variables bound by different quantifiers with scopes that do not overlap.]]
+
+### Logical Equivalence with Quantifiers
+![[Discrete mathematics and its applications Rosen, Kenneth H - (2019).pdf#page=72&rect=128,537,617,627&color=red]]
+[[Discrete mathematics and its applications Rosen, Kenneth H - (2019).pdf#page=72&selection=46,0,47,0&color=red|EXAMPLE 19]]
+
+### Negating Quantified Expressions
+[[Discrete mathematics and its applications Rosen, Kenneth H - (2019).pdf#page=73&selection=50,0,62,25&color=red|To show that ¬∀xP(x) and ∃x¬P(x) are logically equivalent]]
+
+![[Discrete mathematics and its applications Rosen, Kenneth H - (2019).pdf#page=73&rect=162,74,610,167&color=red]] ![[Discrete mathematics and its applications Rosen, Kenneth H - (2019).pdf#page=74&rect=170,586,610,750&color=red]]
+
+## Nested Quantifiers
