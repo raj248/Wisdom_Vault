@@ -1,0 +1,11 @@
+An elastic wave is a type of mechanical wave that propagates through a medium, causing temporary deformation or displacement of the medium's particles without permanent alteration of their positions. These waves are characterised by their ability to transmit energy through the medium by oscillating back and forth between neighbouring particles, returning the medium to its original state once the wave has passed.
+
+Elastic waves can occur in various mediums, including solids, liquids, and gases, and are governed by the elasticity and inertia properties of the medium. When a force is applied to a region of the medium, it causes neighbouring particles to be displaced from their equilibrium positions. These displaced particles then exert forces on adjacent particles, transmitting the disturbance through the medium in the form of a wave.
+
+There are two main types of elastic waves: longitudinal waves and transverse waves.
+
+1. **Longitudinal Waves:** In longitudinal waves, the particles of the medium oscillate parallel to the direction of wave propagation. This means that the compression and rarefaction regions of the wave occur along the same axis as the wave's motion. Sound waves travelling through air or seismic waves travelling through the Earth's crust are examples of longitudinal waves.
+
+2. **Transverse Waves:** In transverse waves, the particles of the medium oscillate perpendicular to the direction of wave propagation. This means that the crest and trough regions of the wave occur perpendicular to the wave's motion. Examples of transverse waves include electromagnetic waves such as light waves and waves on a string.
+
+An analogy for understanding elastic waves is to imagine a row of interconnected springs arranged in a line. When you displace one end of the row of springs and release it, a wave-like disturbance travels along the line of springs, causing each spring to oscillate back and forth around its equilibrium position. The energy of the disturbance is transmitted through the interconnected springs, similar to how energy is transmitted through a medium via elastic waves.
