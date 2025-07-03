@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NET-JRF/Syllabus.md",
+                "file": "MCA/Syllabus.md",
                 "mode": "source",
                 "source": false
               },
@@ -142,8 +142,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NET-JRF/Syllabus.md",
-                "followCursor": true,
+                "file": "MCA/Syllabus.md",
+                "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -156,7 +156,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,11 +170,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "da293ba9b79aaf84",
+  "active": "7288fccfa0a1504c",
   "lastOpenFiles": [
+    "NET-JRF/Syllabus.md",
     "README.md",
     "NET-JRF/Books.md",
-    "MSC-MACS/Syllabus.md",
-    "MSC-MACS"
+    "MCA/Syllabus.md",
+    "MCA"
   ]
 }
