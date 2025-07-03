@@ -390,133 +390,319 @@ Types of Network based Operating Systems, Network Structure, Communication Struc
 Robustness, Design Issues, Distributed File Systems.
 
 ## Unit – 6 : Software Engineering
-### Software Process Models: Software Process, Generic Process Model – Framework Activity,
-Task Set and Process Patterns; Process Lifecycle, Prescriptive Process Models, Project
-Management, Component Based Development, Aspect-Oriented Software Development,
-Formal Methods, Agile Process Models – Extreme Programming (XP), Adptive Software
-Development, Scrum, Dynamic System Development Model, Feature Driven Development,
-Crystal, Web Engineering.
+### Software Process Models: 
+Software Process, 
+Generic Process Model – Framework Activity, Task Set and Process Patterns; 
+Process Lifecycle, 
+Prescriptive Process Models, 
+Project Management, 
+Component Based Development, 
+Aspect-Oriented Software Development, 
+Formal Methods, 
+Agile Process Models – Extreme Programming (XP), Adptive Software Development, Scrum, Dynamic System Development Model, Feature Driven Development, Crystal, Web Engineering.
 
-### Software Requirements: Functional and Non-Functional Requirements; Eliciting
-Requirements, Developing Use Cases, Requirement Analysis and Modelling; Requirements
-Review, Software Requirment and Specification (SRS) Document.
-Software Design: Abstraction, Architecture, Patterns, Separation of Concerns, Modularity,
-Information Hiding, Functional Independence, Cohesion and Coupling; Object-Oriented
-Design, Data Design, Architectural Design, User Interface Design, Component Level
-Design.
-Software Quality: McCall’s Quality Factors, ISO 9126 Quality Factors, Quality Control,
-Quality Assurance, Risk Management, Risk Mitigation, Monitoring and Management
-(RMMM); Software Reliability.
-Estimation and Scheduling of Software Projects: Software Sizing, LOC and FP based
-Estimations; Estimating Cost and Effort; Estimation Models, Constructive Cost Model
-(COCOMO), Project Scheduling and Staffing; Time-line Charts.
-Software Testing: Verification and Validation; Error, Fault, Bug and Failure; Unit and
-Integration Tesing; White-box and Black-box Testing; Basis Path Testing, Control Structure
-Testing, Deriving Test Cases, Alpha and Beta Testing; Regression Testing, Performance
-Testing, Stress Testing.
-Software Configuration Management: Change Control and Version Control; Software
-Reuse, Software Re-engineering, Reverse Engineering.
-Unit – 7 : Data Structures and Algorithms
-Data Structures: Arrays and their Applications; Sparse Matrix, Stacks, Queues, Priority
-Queues, Linked Lists, Trees, Forest, Binary Tree, Threaded Binary Tree, Binary Search Tree,
-AVL Tree, B Tree, B+ Tree, B* Tree, Data Structure for Sets, Graphs, Sorting and Searching
-Algorithms; Hashing.
-6
-Performance Analysis of Algorithms and Recurrences: Time and Space Complexities;
-Asymptotic Notation, Recurrence Relations.
-Design Techniques: Divide and Conquer; Dynamic Programming, Greedy Algorithms,
-Backtracking, Branch and Bound.
-Lower Bound Theory: Comparison Trees, Lower Bounds through Reductions.
-Graph Algorithms: Breadth-First Search, Depth-First Search, Shortest Paths, Maximum
-Flow, Minimum Spanning Trees.
-Complexity Theory: P and NP Class Problems; NP-completeness and Reducibility.
-Selected Topics: Number Theoretic Algorithms, Polynomial Arithmetic, Fast Fourier
-Transform, String Matching Algorithms.
-Advanced Algorithms: Parallel Algorithms for Sorting, Searching and Merging,
-Approximation Algorithms, Randomized Algorithms.
-Unit – 8 : Theory of Computation and Compilers
-Theory of Computation: Formal Language, Non-Computational Problems, Diagonal
-Argument, Russels’s Paradox.
-Regular Language Models: Deterministic Finite Automaton (DFA), Non-Deterministic
-Finite Automaton (NDFA), Equivalence of DFA and NDFA, Regular Languages, Regular
-Grammars, Regular Expressions, Properties of Regular Language, Pumping Lemma, Non-
-Regular Languages, Lexical Analysis.
-Context Free Language: Pushdown Automaton (PDA), Non-Deterministic Pushdown
-Automaton (NPDA), Context Free Grammar, Chomsky Normal Form, Greibach Normal
-Form, Ambiguity, Parse Tree Representation of Derivation Trees, Equivalence of PDA’s and
-Context Free Grammars; Properties of Context Free Language.
-Turing Machines (TM): Standard Turing Machine and its Variations; Universal Turing
-Machines, Models of Computation and Church-Turing Thesis; Recursive and Recursively-
-Enumerable Languages; Context-Sensitive Languages, Unrestricted Grammars, Chomsky
-Hierarchy of Languages, Construction of TM for Simple Problems.
-Unsolvable Problems and Computational Complexity: Unsolvable Problem, Halting
-Problem, Post Correspondence Problem, Unsolvable Problems for Context-Free Languages,
-Measuring and Classifying Complexity, Tractable and Intractable Problems.
-Syntax Analysis: Associativity, Precedence, Grammar Transformations, Top Down Parsing,
-Recursive Descent Predictive Parsing, LL (1) Parsing, Bottom up Parsing, LR Parser,
+### Software Requirements: 
+Functional and Non-Functional Requirements; 
+Eliciting Requirements, 
+Developing Use Cases,
+Requirement Analysis and Modelling; 
+Requirements Review, 
+Software Requirment and Specification (SRS) Document.
+### Software Design: 
+Abstraction, 
+Architecture, 
+Patterns, 
+Separation of Concerns, 
+Modularity, 
+Information Hiding, 
+Functional Independence, 
+Cohesion and Coupling; 
+Object-Oriented Design, 
+Data Design, 
+Architectural Design, 
+User Interface Design, 
+Component Level Design.
+### Software Quality: 
+McCall’s Quality Factors, 
+ISO 9126 Quality Factors, 
+Quality Control,
+Quality Assurance, 
+Risk Management, 
+Risk Mitigation, 
+Monitoring and Management (RMMM); 
+Software Reliability. 
+### Estimation and Scheduling of Software Projects: 
+Software Sizing, 
+LOC and FP based Estimations; 
+Estimating Cost and Effort; 
+Estimation Models, 
+Constructive Cost Model (COCOMO), 
+Project Scheduling and Staffing; 
+Time-line Charts.
+### Software Testing: 
+Verification and Validation; 
+Error, Fault, Bug and Failure; 
+Unit and Integration Tesing; 
+White-box and Black-box Testing; 
+Basis Path Testing, Control Structure Testing, Deriving Test Cases, Alpha and Beta Testing; Regression Testing, Performance Testing, Stress Testing.
+### Software Configuration Management: 
+Change Control and Version Control; 
+Software Reuse, 
+Software Re-engineering, 
+Reverse Engineering.
+
+## Unit – 7 : Data Structures and Algorithms
+### Data Structures: 
+Arrays and their Applications; 
+Sparse Matrix, Stacks, Queues, Priority Queues, Linked Lists, Trees, Forest, Binary Tree, Threaded Binary Tree, Binary Search Tree, AVL Tree, B Tree, B+ Tree, B* Tree, Data Structure for Sets, Graphs, Sorting and Searching Algorithms; 
+Hashing.
+
+### Performance Analysis of Algorithms and Recurrences: 
+Time and Space Complexities;
+Asymptotic Notation, 
+Recurrence Relations.
+### Design Techniques: 
+Divide and Conquer; 
+Dynamic Programming, 
+Greedy Algorithms, 
+Backtracking, 
+Branch and Bound.
+### Lower Bound Theory: 
+Comparison Trees, 
+Lower Bounds through Reductions.
+### Graph Algorithms: 
+Breadth-First Search, 
+Depth-First Search, 
+Shortest Paths, 
+Maximum Flow, 
+Minimum Spanning Trees.
+### Complexity Theory: 
+P and NP Class Problems; 
+NP-completeness and Reducibility.
+
+### Selected Topics: 
+Number Theoretic Algorithms, 
+Polynomial Arithmetic, 
+Fast Fourier Transform, 
+String Matching Algorithms.
+### Advanced Algorithms: 
+Parallel Algorithms for Sorting, 
+Searching and Merging,
+Approximation Algorithms, 
+Randomized Algorithms.
+
+## Unit – 8 : Theory of Computation and Compilers
+### Theory of Computation: 
+Formal Language, 
+Non-Computational Problems, 
+Diagonal Argument, 
+Russels’s Paradox.
+### Regular Language Models: 
+Deterministic Finite Automaton (DFA), 
+Non-Deterministic Finite Automaton (NDFA), 
+Equivalence of DFA and NDFA, 
+Regular Languages, 
+Regular Grammars, 
+Regular Expressions, 
+Properties of Regular Language, 
+Pumping Lemma, Non-Regular Languages, 
+Lexical Analysis.
+### Context Free Language: 
+Pushdown Automaton (PDA), 
+Non-Deterministic Pushdown Automaton (NPDA), 
+Context Free Grammar, 
+Chomsky Normal Form, 
+Greibach Normal Form, 
+Ambiguity, 
+Parse Tree Representation of Derivation Trees, 
+Equivalence of PDA’s and Context Free Grammars; 
+Properties of Context Free Language.
+### Turing Machines (TM): 
+Standard Turing Machine and its Variations; 
+Universal Turing Machines, 
+Models of Computation and Church-Turing Thesis; 
+Recursive and Recursively-Enumerable Languages; 
+Context-Sensitive Languages, 
+Unrestricted Grammars, 
+Chomsky Hierarchy of Languages, 
+Construction of TM for Simple Problems.
+### Unsolvable Problems and Computational Complexity:
+Unsolvable Problem, 
+Halting Problem, 
+Post Correspondence Problem, 
+Unsolvable Problems for Context-Free Languages,
+Measuring and Classifying Complexity, 
+Tractable and Intractable Problems.
+### Syntax Analysis: 
+Associativity, 
+Precedence, 
+Grammar Transformations, 
+Top Down Parsing,
+Recursive Descent Predictive Parsing, 
+LL (1) Parsing, 
+Bottom up Parsing, 
+LR Parser,
 LALR (1) Parser.
-Semantic Analysis: Attribute Grammar, Syntax Directed Definitions, Inherited and
-Synthesized Attributes; Dependency Graph, Evaluation Order, S-attributed and L-attributed
-Definitions; Type-Checking.
-7
-Run Time System: Storage Organization, Activation Tree, Activation Record, Stack
-Allocation of Activation Records, Parameter Passing Mechanisms, Symbol Table.
-Intermediate Code Generation: Intermediate Representations, Translation of Declarations,
-Assignments, Control Flow, Boolean Expressions and Procedure Calls.
-Code Generation and Code Optimization: Control-flow, Data-flow Analysis, Local
-Optimization, Global Optimization, Loop Optimization, Peep-Hole Optimization, Instruction
-Scheduling.
-Unit – 9 : Data Communication and Computer Networks
-Data Communication: Components of a Data Communication System, Simplex, Half-
-Duplex and Duplex Modes of Communication; Analog and Digital Signals; Noiseless and
-Noisy Channels; Bandwidth, Throughput and Latency; Digital and Analog Transmission;
-Data Encoding and Modulation Techniques; Broadband and Baseband Transmission;
-Multiplexing, Transmission Media, Transmission Errors, Error Handling Mechanisms.
-Computer Networks: Network Topologies, Local Area Networks, Metropolitan Area
-Networks, Wide Area Network, Wireless Networks, Internet.
-Network Models: Layered Architecture, OSI Reference Model and its Protocols; TCP/IP
-Protocol Suite, Physical, Logical, Port and Specific Addresses; Switching Techniques.
-Functions of OSI and TCP/IP Layers: Framing, Error Detection and Correction; Flow and
-Error Control; Sliding Window Protocol, HDLC, Multiple Access – CSMA/CD, CSMA/CA,
-Reservation, Polling, Token Passing, FDMA, CDMA, TDMA, Network Devices, Backbone
-Networks, Virtual LANs.
-IPv 4 Structure and Address Space; Classful and Classless Addressing; Datagram,
-Fragmentation and Checksum; IPv 6 Packet Format, Mapping Logical to Physical Address
-(ARP), Direct and Indirect Network Layer Delivery; Routing Algorithms, TCP, UDP and
-SCTP Protocols; Flow Control, Error Control and Congestion Control in TCP and SCTP.
-World Wide Web (WWW): Uniform Resource Locator (URL), Domain Name Service
-(DNS), Resolution - Mapping Names to Addresses and Addresses to Names; Electronic Mail
-Architecture, SMTP, POP and IMAP; TELNET and FTP.
-Network Security: Malwares, Cryptography and Steganography; Secret-Key Algorithms,
-Public-Key Algorithms, Digital Signature, Virtual Private Networks, Firewalls.
-Mobile Technology: GSM and CDMA; Services and Architecture of GSM and Mobile
-Computing; Middleware and Gateway for Mobile Computing; Mobile IP and Mobile
-Communication Protocol; Communication Satellites, Wireless Networks and Topologies;
-Cellular Topology, Mobile Adhoc Networks, Wireless Transmission and Wireless LANs;
-Wireless Geolocation Systems, GPRS and SMS.
-Cloud Computing and IoT: SaaS, PaaS, IaaS, Public and Private Cloud; Virtualization,
-Virtual Server, Cloud Storage, Database Storage, Resource Management, Service Level
-Agreement, Basics of IoT.
-8
-Unit – 10 : Artificial Intelligence (AI)
-Approaches to AI: Turing Test and Rational Agent Approaches; State Space Representation
-of Problems, Heuristic Search Techniques, Game Playing, Min-Max Search, Alpha Beta
-Cutoff Procedures.
-Knowledge Representation: Logic, Semantic Networks, Frames, Rules, Scripts, Conceptual
-Dependency and Ontologies; Expert Systems, Handling Uncertainty in Knowledge.
-Planning: Components of a Planning System, Linear and Non Linear Planning; Goal Stack
-Planning, Hierarchical Planning, STRIPS, Partial Order Planning.
-Natural Language Processing: Grammar and Language; Parsing Techniques, Semantic
-Analysis and Prgamatics.
-Multi Agent Systems: Agents and Objects; Agents and Expert Systems; Generic Structure
-of Multiagent System, Semantic Web, Agent Communication, Knowledge Sharing using
-Ontologies, Agent Development Tools.
-Fuzzy Sets: Notion of Fuzziness, Membership Functions, Fuzzification and
-Defuzzification; Operations on Fuzzy Sets, Fuzzy Functions and Linguistic Variables; Fuzzy
-Relations, Fuzzy Rules and Fuzzy Inference; Fuzzy Control System and Fuzzy Rule Based
-Systems.
-Genetic Algorithms (GA): Encoding Strategies, Genetic Operators, Fitness Functions and
-GA Cycle; Problem Solving using GA.
-Artificial Neural Networks (ANN): Supervised, Unsupervised and Reinforcement
-Learning; Single Perceptron, Multi Layer Perceptron, Self Organizing Maps, Hopfield
-Network.
+### Semantic Analysis: 
+Attribute Grammar, 
+Syntax Directed Definitions, 
+Inherited and Synthesized Attributes; 
+Dependency Graph, 
+Evaluation Order, 
+S-attributed and L-attributed Definitions; 
+Type-Checking.
+### Run Time System: 
+Storage Organization, 
+Activation Tree, 
+Activation Record, 
+Stack Allocation of Activation Records, 
+Parameter Passing Mechanisms, 
+Symbol Table.
+### Intermediate Code Generation: 
+Intermediate Representations, 
+Translation of Declarations,
+Assignments, 
+Control Flow, 
+Boolean Expressions and Procedure Calls.
+### Code Generation and Code Optimization: 
+Control-flow, 
+Data-flow Analysis, 
+Local Optimization, 
+Global Optimization, 
+Loop Optimization, 
+Peep-Hole Optimization, 
+Instruction Scheduling.
+## Unit – 9 : Data Communication and Computer Networks
+### Data Communication: 
+Components of a Data Communication System, 
+Simplex, 
+Half-Duplex and Duplex Modes of Communication; 
+Analog and Digital Signals; 
+Noiseless and Noisy Channels; 
+Bandwidth, 
+Throughput and Latency;
+Digital and Analog Transmission;
+Data Encoding and Modulation Techniques; 
+Broadband and Baseband Transmission;
+Multiplexing, 
+Transmission Media, 
+Transmission Errors, Error Handling Mechanisms.
+### Computer Networks: 
+Network Topologies, 
+Local Area Networks, 
+Metropolitan Area Networks, 
+Wide Area Network, 
+Wireless Networks, 
+Internet.
+### Network Models: 
+Layered Architecture, 
+OSI Reference Model and its Protocols; 
+TCP/IP Protocol Suite, 
+Physical, 
+Logical, 
+Port and Specific Addresses; 
+Switching Techniques.
+### Functions of OSI and TCP/IP Layers: 
+Framing, 
+Error Detection and Correction; 
+Flow and Error Control; 
+Sliding Window Protocol, 
+HDLC, 
+Multiple Access – CSMA/CD, CSMA/CA, Reservation, Polling, Token Passing, FDMA, CDMA, TDMA, Network Devices, Backbone Networks, Virtual LANs.
+### IPv 4 Structure and Address Space: 
+Classful and Classless Addressing; 
+Datagram,
+Fragmentation and Checksum; 
+IPv 6 Packet Format, 
+Mapping Logical to Physical Address (ARP), 
+Direct and Indirect Network Layer Delivery; 
+Routing Algorithms, 
+TCP, 
+UDP and SCTP Protocols; 
+Flow Control, 
+Error Control and Congestion Control in TCP and SCTP.
+### World Wide Web (WWW): 
+Uniform Resource Locator (URL), 
+Domain Name Service (DNS), 
+Resolution - Mapping Names to Addresses and Addresses to Names; 
+Electronic Mail Architecture, SMTP, POP and IMAP; TELNET and FTP.
+### Network Security: 
+Malwares, 
+Cryptography and Steganography; 
+Secret-Key Algorithms,
+Public-Key Algorithms, 
+Digital Signature, 
+Virtual Private Networks, 
+Firewalls.
+### Mobile Technology: 
+GSM and CDMA; 
+Services and Architecture of GSM and Mobile Computing; 
+Middleware and Gateway for Mobile Computing; 
+Mobile IP and Mobile Communication Protocol; 
+Communication Satellites, 
+Wireless Networks and Topologies;
+Cellular Topology, 
+Mobile Adhoc Networks, 
+Wireless Transmission and Wireless LANs;
+Wireless Geolocation Systems, 
+GPRS and SMS.
+### Cloud Computing and IoT: 
+SaaS, PaaS, IaaS, Public and Private Cloud; 
+Virtualization, 
+Virtual Server, 
+Cloud Storage, 
+Database Storage, 
+Resource Management, 
+Service Level Agreement, 
+Basics of IoT.
+## Unit – 10 : Artificial Intelligence (AI)
+### Approaches to AI: 
+Turing Test and Rational Agent Approaches; 
+State Space Representation of Problems, 
+Heuristic Search Techniques, 
+Game Playing, 
+Min-Max Search, 
+Alpha Beta Cutoff Procedures.
+### Knowledge Representation: 
+Logic, Semantic Networks, Frames, Rules, Scripts, Conceptual Dependency and Ontologies; Expert Systems, 
+Handling Uncertainty in Knowledge.
+### Planning: 
+Components of a Planning System, 
+Linear and Non Linear Planning; 
+Goal Stack Planning, 
+Hierarchical Planning, 
+STRIPS, 
+Partial Order Planning.
+### Natural Language Processing: 
+Grammar and Language; 
+Parsing Techniques, 
+Semantic Analysis and Prgamatics.
+### Multi Agent Systems: 
+Agents and Objects; 
+Agents and Expert Systems; 
+Generic Structure of Multiagent System, 
+Semantic Web, 
+Agent Communication, 
+Knowledge Sharing using Ontologies, 
+Agent Development Tools.
+### Fuzzy Sets: 
+Notion of Fuzziness, 
+Membership Functions, 
+Fuzzification and Defuzzification; 
+Operations on Fuzzy Sets, 
+Fuzzy Functions and Linguistic Variables; 
+Fuzzy Relations, 
+Fuzzy Rules and Fuzzy Inference; 
+Fuzzy Control System and Fuzzy Rule Based Systems.
+### Genetic Algorithms (GA): 
+Encoding Strategies, 
+Genetic Operators, 
+Fitness Functions and GA Cycle; 
+Problem Solving using GA.
+### Artificial Neural Networks (ANN): 
+Supervised, 
+Unsupervised and Reinforcement Learning; 
+Single Perceptron, 
+Multi Layer Perceptron, 
+Self Organizing Maps, 
+Hopfield Network.

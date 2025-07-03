@@ -143,7 +143,7 @@
               "type": "outline",
               "state": {
                 "file": "NET-JRF/Syllabus.md",
-                "followCursor": false,
+                "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -151,12 +151,12 @@
               "title": "Outline of Syllabus"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,7 +169,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7288fccfa0a1504c",
+  "active": "da293ba9b79aaf84",
   "lastOpenFiles": [
     "README.md",
     "NET-JRF/Books.md",
