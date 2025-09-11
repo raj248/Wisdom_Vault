@@ -1,7 +1,3 @@
-Perfect timing 🙌 — that’s a very common need! You can absolutely have different **`.env` files** for dev, prod, and test.
-
----
-
 ## 🔧 Option 1: Load different files manually
 
 You can tell **dotenv** exactly which file to load:
@@ -85,6 +81,3 @@ NODE_ENV=development npm run dev
 * **Simple projects** → Option 1 (plain dotenv + `path`) is enough.
 * **Bigger apps / teams** → Option 2 (`dotenv-flow`) is nicer because it follows conventions and supports `.env.local` automatically.
 
----
-
-👉 Do you want me to update your **starter template README** so it includes multiple environment files support?
